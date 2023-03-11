@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052172736043",
+    "firebase_url": "https://gdg-nashik-gallery.firebaseio.com",
+    "project_id": "gdg-nashik-gallery",
+    "storage_bucket": "gdg-nashik-gallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052172736043:android:1960d07a4cb5a5841efc6e",
+        "android_client_info": {
+          "package_name": "com.example.gdgnashik_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052172736043-19trf0109rcaovgmtos9kq2e6mptb8mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gdgnashik_gallery",
+            "certificate_hash": "5827d934e7200b2b3a1d99f87f243742de135449"
+          }
+        },
+        {
+          "client_id": "1052172736043-mta47t87pmh71iuk889g7fuh95j3o4h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8iC9XKKofYa9HUWlIeGTaT7A65MTfzRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052172736043-mta47t87pmh71iuk889g7fuh95j3o4h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
